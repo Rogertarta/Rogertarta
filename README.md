@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Rogertarta</h1>
+<h1 align="center">Welcome ⭐, I'm Rogertarta</h1>
 <h3 align="center">Amateur Translator for MODS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rogertarta&label=Profile%20views&color=0e75b6&style=flat" alt="rogertarta" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rogertarta" alt="rogertarta" /></a> </p>
 
-- 🔭 I’m currently working on **Town Of Us ITA**
+- ✏️ I’m currently working on **Town Of Us ITA**
 
 - 📫 How to reach me **Rogertarta on Discord**
 
