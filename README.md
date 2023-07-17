@@ -1,6 +1,8 @@
 <h1 align="center">Rogertarta's Profile</h1>
 <h3 align="center">⚙️ Amateur Translator for MODS ⚙️</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rogertarta&label=Profile%20views&color=0e75b6&style=flat" alt="rogertarta" /> </p>
+
 - 🔭 I’m currently working on **Town Of Us ITA**
 
 - 📫 How to reach me **Rogertarta on Discord**
