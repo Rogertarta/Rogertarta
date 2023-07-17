@@ -14,7 +14,7 @@
 
 - 🛡️ Ex Moderator for [Escape from Tarkov Italia](https://discord.gg/Nq6CFDE) 
 
-- 🛡️ Ex Moderator [Trouble in Platynum Town] (https://steamcommunity.com/groups/platynumtown)
+- 🛡️ Ex Moderator [Trouble in Platynum Town](https://steamcommunity.com/groups/platynumtown)
 
 - 🎲 GameMaster for [Enne Online](https://discord.gg/JEwR4zbpqN)
 
