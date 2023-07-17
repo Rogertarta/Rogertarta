@@ -1,6 +1,6 @@
 ![logo](https://github.com/Rogertarta/Rogertarta/blob/main/Rogertarta%20(2).png)
 <h1 align="center">Rogertarta's Profile</h1>
-<h3 align="center">⚙️ Amateur Translator for MODS ⚙️</h3>
+<h3 align="center">⚙️ Games P-Servers Manager ⚙️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rogertarta&label=Profile%20views&color=0e75b6&style=flat" alt="rogertarta" /> </p>
 
