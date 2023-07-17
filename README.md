@@ -1,5 +1,5 @@
-<h1 align="center">Welcome to my Profile 🐢 Rogertarta 🐢</h1>
-<h3 align="center">Amateur Translator for MODS</h3>
+<h1 align="center">Rogertarta's Profile</h1>
+<h3 align="center">⚙️ Amateur Translator for MODS ⚙️</h3>
 
 - 🔭 I’m currently working on **Town Of Us ITA**
 
