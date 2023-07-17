@@ -8,6 +8,16 @@
 
 - 📫 How to reach me **Rogertarta on Discord**
 
+- 👑 Ex Co-Founder for Grau Life Roleplay Fivem
+
+- 🛡️ Ex Moderator for Just 4 Fun Community 
+
+- 🛡️ Ex Moderator for [Escape from Tarkov Italia](https://discord.gg/Nq6CFDE) 
+
+- 🛡️ Ex Moderator [Trouble in Platynum Town] (https://steamcommunity.com/groups/platynumtown)
+
+- 🎲 GameMaster for [Enne Online](https://discord.gg/JEwR4zbpqN)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/rogertarta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rogertarta" height="30" width="40" /></a>
