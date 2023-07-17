@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rogertarta&label=Profile%20views&color=0e75b6&style=flat" alt="rogertarta" /> </p>
 
-- 🔭 I’m currently working on **Town Of Us ITA**
+- 🔭 I’m currently working on [Town Of Us ITA](https://github.com/eDonnes124/Town-Of-Us-R)
 
 - 📫 How to reach me **Rogertarta on Discord**
 
