@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **Rogertarta on Discord**
 
-- 👑 Ex Co-Founder for Grau Life Roleplay Fivem
+- 👑 Ex Co-Founder for [Grau Life Roleplay Fivem](https://www.graucitylife.it)
 
 - 🛡️ Ex Moderator for Just 4 Fun Community 
 
