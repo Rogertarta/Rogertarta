@@ -1,4 +1,4 @@
-![logo](https://github.com/Rogertarta/Rogertarta/blob/main/Rogertarta.png)
+![logo](https://github.com/Rogertarta/Rogertarta/blob/main/Rogertarta%20(2).png)
 <h1 align="center">Rogertarta's Profile</h1>
 <h3 align="center">⚙️ Amateur Translator for MODS ⚙️</h3>
 
