@@ -16,7 +16,7 @@
 
 - 🛡️ Ex Moderator [Trouble in Platynum Town](https://steamcommunity.com/groups/platynumtown)
 
-- 🎲 GameMaster for [Enne Online](https://discord.gg/JEwR4zbpqN)
+- 🎲 Ex GameMaster for [Enne Online](https://discord.gg/JEwR4zbpqN)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
