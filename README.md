@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rogertarta&label=Profile%20views&color=0e75b6&style=flat" alt="rogertarta" /> </p>
 
-- ✏️ Working on [Town Of Us ITA](https://github.com/eDonnes124/Town-Of-Us-R)
+- ✏️ Working on [Town Of Us ITA](github.com/CrystalTwoK/Town-Of-Us-R-IT)
 
 - ✉️ **Rogertarta on Discord**
 
